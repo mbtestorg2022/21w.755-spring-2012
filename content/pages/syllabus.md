@@ -124,19 +124,189 @@ _Please remember that while the internet makes plagiarism easier, it also makes 
 Calendar
 --------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1–2 | Introduction, Process, the Origins of "Story" | &nbsp; |
-| 3–4 | Use of Biography in Story | &nbsp; |
-| 5 | Beginning Character | &nbsp; |
-| 6–7 | Character | &nbsp; |
-| 8–9 | Plot | &nbsp; |
-| 10–11 | Point of View | First story due in Ses #10 |
-| 12–13 | Description | &nbsp; |
-| 14–15 | Workshop and Revelation | &nbsp; |
-| 16–17 | Where to Start | &nbsp; |
-| 18 | Place | First draft of second story due |
-| 19–20 | Strategies for Rewriting | &nbsp; |
-| 21–22 | Workshop | Rewrite of first story due in Ses #22 |
-| 23–24 | Workshop (cont.) | &nbsp; |
-| 25–26 | Publishing | Story three due and rewrite of second story due in Ses #25
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1–2
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction, Process, the Origins of "Story"
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3–4
+{{< tdclose >}}
+{{< tdopen >}}
+Use of Biography in Story
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Beginning Character
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6–7
+{{< tdclose >}}
+{{< tdopen >}}
+Character
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8–9
+{{< tdclose >}}
+{{< tdopen >}}
+Plot
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10–11
+{{< tdclose >}}
+{{< tdopen >}}
+Point of View
+{{< tdclose >}}
+{{< tdopen >}}
+First story due in Ses #10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12–13
+{{< tdclose >}}
+{{< tdopen >}}
+Description
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14–15
+{{< tdclose >}}
+{{< tdopen >}}
+Workshop and Revelation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16–17
+{{< tdclose >}}
+{{< tdopen >}}
+Where to Start
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Place
+{{< tdclose >}}
+{{< tdopen >}}
+First draft of second story due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19–20
+{{< tdclose >}}
+{{< tdopen >}}
+Strategies for Rewriting
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21–22
+{{< tdclose >}}
+{{< tdopen >}}
+Workshop
+{{< tdclose >}}
+{{< tdopen >}}
+Rewrite of first story due in Ses #22
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23–24
+{{< tdclose >}}
+{{< tdopen >}}
+Workshop (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25–26
+{{< tdclose >}}
+{{< tdopen >}}
+Publishing
+{{< tdclose >}}
+{{< tdopen >}}
+Story three due and rewrite of second story due in Ses #25
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
